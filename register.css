@@ -1,0 +1,13 @@
+body{
+    background-image:url("https://media.wired.com/photos/5a67d664de8b302cc09033e0/master/pass/cherries-742253731.jpg");
+    background-repeat: no-repeat,repeat;
+   
+    background-size: cover;
+}
+.forminput1{
+    text-align:center;
+    border-block-color:black;
+    border-radius:80px;
+    
+    
+}
